@@ -617,7 +617,7 @@ public class KeyAuthPlugin extends JavaPlugin implements Listener {
                 "        \n" +
                 "        <div class=\"footer\">\n" +
                 "            <p>Powered by <a href=\"#\" target=\"_blank\">HotWindLibs</a> & <a href=\"#\" target=\"_blank\">KeyAuth</a></p>\n" +
-                "            <p>© 2023 服务器密钥管理系统 - 保留所有权利</p>\n" +
+                "            <p>© 2025 服务器密钥管理系统 - 保留所有权利</p>\n" +
                 "        </div>\n" +
                 "    </div>\n" +
                 "    \n" +
@@ -928,4 +928,5 @@ public class KeyAuthPlugin extends JavaPlugin implements Listener {
     public void clearStatistics() {
         verificationTimes.clear();
     }
+
 }
