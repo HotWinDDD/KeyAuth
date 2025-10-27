@@ -7,7 +7,7 @@ Minecraft plugins for protect your server
  ### 3. Start you server
  ### 4. Enjoy the game ❤
 
-#Command
+# Command
  ### /key <password> - Login The Server
  ### /keyreload - Reload Plugin/config
  ### /keyinfo - Check password update time
