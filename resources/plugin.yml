@@ -1,0 +1,37 @@
+name: KeyAuth
+version: 1.0.1
+main: com.keyauth.KeyAuthPlugin
+api-version: 1.21
+description: 服务器密钥认证插件 - 带自动更新和网站功能
+author: HotWinD
+
+commands:
+  key:
+    description: 输入密钥进行验证
+    usage: /key <password>
+  keyreload:
+    description: 重载插件配置
+    usage: /keyreload
+    permission: keyauth.reload
+  keystats:
+    description: 查看验证统计
+    usage: /keystats [clear]
+    permission: keyauth.stats
+  keyinfo:
+    description: 查看密码信息
+    usage: /keyinfo
+    permission: keyauth.info
+
+permissions:
+  keyauth.reload:
+    description: 允许重载密钥插件配置
+    default: op
+  keyauth.stats:
+    description: 允许查看验证统计
+    default: op
+  keyauth.stats.clear:
+    description: 允许清空验证统计
+    default: op
+  keyauth.info:
+    description: 允许查看密码信息
+    default: true

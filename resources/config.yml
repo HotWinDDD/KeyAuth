@@ -1,0 +1,23 @@
+# 当前验证密钥
+key: "661230"
+
+# 验证超时时间（秒）
+kick-delay: 60
+
+# 自动更新设置
+auto-update:
+  enabled: true
+  update-hour: 12  # 每天12点更新
+  web-path: "plugins/KeyAuth/web/key.txt"
+
+# 标题显示设置
+title:
+  prompt-fade-in: 10
+  prompt-stay: 60
+  prompt-fade-out: 10
+  success-fade-in: 10
+  success-stay: 70
+  success-fade-out: 20
+  welcome-fade-in: 10
+  welcome-stay: 40
+  welcome-fade-out: 10
