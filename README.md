@@ -2,4 +2,5 @@
 Minecraft plugins for protect your server
 
 # How To Use
-* DownLoad Plugin
+* Download Plugin
+* into the _plugins_ folder
