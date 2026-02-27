@@ -23,3 +23,7 @@ Minecraft plugins for protect your server
 
 # API
  ### In development
+
+# Tips
+ ### The HTML webpage is integrated into the plugin (key.html) and currently supports EN/JP/CN. It needs to be enabled manually. The default port is 11451. Please ensure that this port is opened in your security group. Updates will be performed at 12:00 PM GMT+8.
+ ### html网页集成在插件中（key.html），目前已适配EN/JP/CN，需要手动开启，默认端口为11451，请确保你的安全组已经开启该端口，并且在GMT+8的12点进行更新
