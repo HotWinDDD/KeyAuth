@@ -1,5 +1,5 @@
 #   KeyAuth
-  - 安全密钥 -
+### - 安全密钥 -
 Minecraft plugins for protect your server
 
 # How To Use
