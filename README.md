@@ -1,9 +1,9 @@
 #   KeyAuth
-# - 安全密钥 -
+  - 安全密钥 -
 Minecraft plugins for protect your server
 
 # How To Use
-# 如何使用
+  如何使用
  ### 1. Download Plugin from [Releases](https://github.com/HotWinDDD/KeyAuth/releases/tag/Beta_version)
  ### 1. 进入[Releases](https://github.com/HotWinDDD/KeyAuth/releases/tag/Beta_version)下载最新版
  
